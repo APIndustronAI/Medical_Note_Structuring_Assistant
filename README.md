@@ -1,2 +1,0 @@
-# Meeting_Notes_Generator_from_Voice_Memos_llama2
-
